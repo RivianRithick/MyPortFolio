@@ -1,9 +1,6 @@
 export const Bio = {
   name: "Rithickshival",
-  roles: [
-    "Full Stack Developer",
-    "Programmer",
-  ],
+  roles: ["Full Stack Developer", "Programmer"],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/RivianRithick",
@@ -81,8 +78,7 @@ export const skills = [
     skills: [
       {
         name: "Git",
-        image:
-          "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png",
+        image: "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png",
       },
       {
         name: "GitHub",
@@ -116,14 +112,7 @@ export const experiences = [
     company: "WhiteBlue Cloud Services",
     date: "July 2022 - July 2023",
     desc: "Developed a online game store (E-Commerse) using .Net Core Web API, MVC, Entity Framework, and MY-SQL with both DB-First and Code-First Approach. Also developed a Report Manager application in both canvas and model driven app using power platform",
-    skills: [
-      "HTML",
-      "CSS",
-      "Javascript",
-      "C#",
-      "Dotnet",
-      "Mysql",
-    ],
+    skills: ["HTML", "CSS", "Javascript", "C#", "Dotnet", "Mysql"],
     // doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
   },
 ];
@@ -136,7 +125,8 @@ export const education = [
     date: "2018 - 2022",
     grade: "7.66 CGPA",
     desc: "I completed my Bachelor's degree in Electrical and Electronics Engineering at Dhaanish Ahmed College Of Engineering.",
-    degree: "Bachelor of Engineering - BE, Electrical and Electronics Engineering",
+    degree:
+      "Bachelor of Engineering - BE, Electrical and Electronics Engineering",
   },
   {
     id: 1,
@@ -165,7 +155,7 @@ export const projects = [
     description:
       "This project is a full-stack web application that allows users to view and manage Markdown files.",
     image:
-      "src/images/Markdown.png",
+      "https://drive.google.com/file/d/13Euty5oxfdnO2lk1cMSfUPLYY8vh4mNa/view?usp=drive_link",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Nodemailer"],
     github: "	https://github.com/RivianRithick/MarkDownPreview-FrontEnd.git",
     webapp: "https://markdownpreview-frontend.netlify.app/",
@@ -176,14 +166,8 @@ export const projects = [
     description:
       "An URL shortener is a website that reduces the length of your URL (Uniform Resource Locator). The idea is to minimize the web page address into something that's easier to remember and track. ",
     image:
-      "src/images/url shortener.png",
-    tags: [
-      "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
-      "NodeMailer",
-    ],
+      "https://drive.google.com/file/d/1MoXfWpI0xmH528Twhs8JCwWDdanex0RN/view?usp=drive_link",
+    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "NodeMailer"],
     github: "https://github.com/RivianRithick/urlshorterner-FrontEnd.git",
     webapp: "https://urlshortapp.netlify.app/",
   },
@@ -193,14 +177,8 @@ export const projects = [
     description:
       "A password reset Application is a self-service mechanism that allows users to change or reset their passwords. When a user forgets their password, they can request a reset, verify their email, and start the process of creating a new password.",
     image:
-      "src/images/pass-reset.png",
-      tags: [
-        "React Js",
-        "MongoDb",
-        "Node Js",
-        "Express Js",
-        "NodeMailer",
-      ],
+      "https://drive.google.com/file/d/13sw1yI3wOXE_7-iWrXs8TDWySI4GPux7/view?usp=drive_link",
+    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "NodeMailer"],
     github: "https://github.com/RivianRithick/passwordreset-FrontEnd.git",
     webapp: "https://password-reset-app-guvi.netlify.app/",
   },
@@ -210,7 +188,7 @@ export const projects = [
     description:
       "Library management system allows users to manage book and author details. User can create, edit, view, delete the data.",
     image:
-      "src/images/Library management.png",
+      "https://drive.google.com/file/d/1Q1f1o1m9-zVLOrCDnRpsWanBOlXPFmxI/view?usp=drive_link",
     tags: ["HTML", "Bootstarp", "Javascript", "React"],
     github: "https://github.com/RivianRithick/Formik-Task.git",
     webapp: "https://unique-sunshine-bb2dcb.netlify.app/",
@@ -221,7 +199,7 @@ export const projects = [
     description:
       "A React todo app is a web application that allows users to create and manage a list of tasks.",
     image:
-      "src/images/todo.png",
+      "https://drive.google.com/file/d/1RlC099Tt7lWYJk00FxJfyeiCv2XfrQA-/view?usp=drive_link",
     tags: ["HTML", "Bootstarp", "Javascript", "React"],
     github: "https://github.com/RivianRithick/Todo-App.git",
     webapp: "https://benevolent-unicorn-7e6996.netlify.app/",
