@@ -44,7 +44,7 @@ const HeroSection = () => {
           </HeroLeftContainer>
 
           <HeroRightContainer id="Right">
-            <Img src="src/images/Male Avatar.gif" alt="hero-image" />
+            <Img src="Male Avatar.gif" alt="hero-image" />
           </HeroRightContainer>
         </HeroInnerContainer>
       </HeroContainer>
